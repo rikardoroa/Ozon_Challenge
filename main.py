@@ -123,7 +123,7 @@ class ozon_challenge:
             print("file not found in path!")
 
 
-    def data_insert(self):
+    def inserting_data(self):
         """ Funcion que valida la existencia de la base de datos y la coleccion
          en mongodb para la inserción del archivo json"""
         try:
@@ -161,4 +161,4 @@ if __name__ == "__main__":
     mongo_etl = ozon_challenge()
     mongo_etl.transforming_data()
     mongo_etl.filtering_data()
-    mongo_etl.data_insert()
+    mongo_etl.inserting_data()
