@@ -10,7 +10,7 @@
 
 * 3. Tener las siguientes librerias instaladas: **_pandas, numpy y pymongo_**
 
-* 4. Las librerias por defecto de Python que son utilizadas en este proyecto son: re, json, os y datetime 
+* 4. Las librerias por defecto de Python que son utilizadas en este proyecto son: **_re, json, os y datetime_** 
 
 
 ## Descripcion del script
