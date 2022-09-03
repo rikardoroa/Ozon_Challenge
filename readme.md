@@ -8,9 +8,9 @@
 
 * 2. Si se va ejecutar el script en otra instancia de mongo, solo cambiar la conexion en el script
 
-* 3. Tener las siguientes librerias instaladas: pandas, numpy, pymongo, datetime 
+* 3. Tener las siguientes librerias instaladas: pandas, numpy y pymongo
 
-* 4. Las librerias por defecto de Python que son utilizadas en este proyecto son: re, json y os
+* 4. Las librerias por defecto de Python que son utilizadas en este proyecto son: re, json, os y datetime 
 
 
 ## Descripcion del script
