@@ -12,6 +12,8 @@
 
 * 4. Las librerias por defecto de Python que son utilizadas en este proyecto son: **_re, json, os y datetime_** 
 
+* 5. Al instalar la libreria **__pymongo__** tambien se instala la libreria **__bson.json_util__**, para esta solucion se debe importar el paquete **__dumps__** de esta libreria de la siguiente manera **__from bson.json_util import dumps__**, con el fin de aplicar todas las conversiones a los datos correspondientes para generar el archivo json final.
+
 
 ## Descripcion del script
 
